@@ -1,0 +1,16 @@
+{
+  "name": "hubot-otsukare-yamero-alternative",
+  "version": "0.0.0",
+  "description": "『お疲れ様です』と読める言葉に『やめろ』って答えるやつ",
+  "main": "index.coffee",
+  "author": "knjcode <knjcode@gmail.com>",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, joke",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/knjcode/hubot-otsukare-yamero-alternative.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knjcode/hubot-otsukare-yamero-alternative/issues"
+  }
+}
